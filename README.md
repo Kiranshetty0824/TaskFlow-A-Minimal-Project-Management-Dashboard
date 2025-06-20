@@ -1,6 +1,10 @@
 # TaskFlow-A-Minimal-Project-Management-Dashboard
 TaskFlow – A Minimal Project Management Dashboard
 
+A responsive and intuitive project management dashboard for teams to organize tasks, manage sprints, assign responsibilities, and track deadlines. Designed with UX principles and a clean UI.
+
+
+
 TaskFlow – A Minimal Project Management Dashboar
 # 🗂️ TaskFlow – Project Management Dashboard
 
